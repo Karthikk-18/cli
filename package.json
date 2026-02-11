@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-node",
+  "version": "1.0.0",
+  "description": "A simple cli file reader tool",
+  "main": "reader.js",
+  "bin": {
+    "file-reader": "./reader.js"
+  },
+  "scripts": {
+    "start": "node reader.js"
+  }
+}
